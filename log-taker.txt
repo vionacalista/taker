@@ -1136,3 +1136,12 @@
 3/4/2025 | 12:33:35 PM | WARN | Retrying... (0 attempts left) 
 3/4/2025 | 12:33:39 PM | ERROR | Failed to get nonce after retries: Request failed with status code 502
 3/4/2025 | 12:33:39 PM | ERROR | Failed to retrieve nonce for wallet: 0x1a735396cd45727647FD4bcF548CAE32E30e3A1B 
+3/4/2025 | 4:21:23 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/4/2025 | 4:21:23 PM | INFO | Start process for wallet 0x1a735396cd45727647FD4bcF548CAE32E30e3A1B 
+3/4/2025 | 4:21:24 PM | INFO | Trying To Login for wallet: 0x1a735396cd45727647FD4bcF548CAE32E30e3A1B 
+3/4/2025 | 4:21:25 PM | INFO | Login successful... 
+3/4/2025 | 4:21:25 PM | INFO | Trying to check user info... 
+3/4/2025 | 4:21:26 PM | INFO | User ID: 102570910 | Twitter: @vionaacalista | Total Points: 432000 
+3/4/2025 | 4:21:26 PM | INFO | Trying to check user miner status... 
+3/4/2025 | 4:21:26 PM | INFO | Last mining time: 3/4/2025, 4:21:18 AM
+3/4/2025 | 4:21:26 PM | WARN | Mining already started, next mining time is: 3/5/2025, 4:21:18 AM
