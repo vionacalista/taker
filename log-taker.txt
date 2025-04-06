@@ -2925,3 +2925,12 @@
 4/6/2025 | 8:19:58 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 4/6/2025 | 8:19:58 AM | INFO | Trying to activate mining on-chain for wallet: 0x1a735396cd45727647FD4bcF548CAE32E30e3A1B 
 4/6/2025 | 8:20:08 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x93448a389151fb97886fb8c98b8cff0f8880c65da59594a22de00f3964e5e836 
+4/6/2025 | 12:31:02 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/6/2025 | 12:31:03 PM | INFO | Start process for wallet 0x1a735396cd45727647FD4bcF548CAE32E30e3A1B 
+4/6/2025 | 12:31:03 PM | INFO | Trying To Login for wallet: 0x1a735396cd45727647FD4bcF548CAE32E30e3A1B 
+4/6/2025 | 12:31:04 PM | INFO | Login successful... 
+4/6/2025 | 12:31:04 PM | INFO | Trying to check user info... 
+4/6/2025 | 12:31:05 PM | INFO | User ID: 102570910 | Twitter: @vionaacalista | Total Points: 1104000 
+4/6/2025 | 12:31:05 PM | INFO | Trying to check user miner status... 
+4/6/2025 | 12:31:05 PM | INFO | Last mining time: 4/6/2025, 8:20:06 AM
+4/6/2025 | 12:31:05 PM | WARN | Mining already started, next mining time is: 4/7/2025, 8:20:06 AM
