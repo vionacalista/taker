@@ -5435,3 +5435,16 @@
 5/20/2025 | 12:38:28 PM | INFO | Trying to check user miner status... 
 5/20/2025 | 12:38:29 PM | INFO | Last mining time: 5/19/2025, 12:38:54 PM
 5/20/2025 | 12:38:29 PM | WARN | Mining already started, next mining time is: 5/20/2025, 12:38:54 PM
+5/20/2025 | 4:22:57 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 4:22:57 PM | INFO | Start process for wallet 0x1a735396cd45727647FD4bcF548CAE32E30e3A1B 
+5/20/2025 | 4:22:58 PM | INFO | Trying To Login for wallet: 0x1a735396cd45727647FD4bcF548CAE32E30e3A1B 
+5/20/2025 | 4:22:59 PM | INFO | Login successful... 
+5/20/2025 | 4:22:59 PM | INFO | Trying to check user info... 
+5/20/2025 | 4:23:00 PM | INFO | User ID: 102570910 | Twitter: @vionaacalista | Total Points: 2040000 
+5/20/2025 | 4:23:00 PM | INFO | Trying to check user miner status... 
+5/20/2025 | 4:23:01 PM | INFO | Last mining time: 5/19/2025, 12:38:54 PM
+5/20/2025 | 4:23:01 PM | INFO | Trying to start Mining for wallet: 0x1a735396cd45727647FD4bcF548CAE32E30e3A1B 
+5/20/2025 | 4:23:01 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/20/2025 | 4:23:01 PM | INFO | Trying to activate mining on-chain for wallet: 0x1a735396cd45727647FD4bcF548CAE32E30e3A1B 
+5/20/2025 | 4:23:06 PM | ERROR | Activate Mining Error: {"code":"INSUFFICIENT_FUNDS","transaction":"0x02f86b8204655b80831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec001a003153a3e0a4f3922e091ff687ac13c34a8ca5145d13fd9675bdae3785d7e5447a0323b4025e2daee0bd45e8561f7201e9f8283c4150e0200596ae93c9c729e1622","info":{"error":{"code":-32603,"message":"insufficient funds for gas * price + value"}},"shortMessage":"insufficient funds for intrinsic transaction cost"}
+5/20/2025 | 4:23:06 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
