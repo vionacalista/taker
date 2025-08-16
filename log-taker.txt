@@ -10543,3 +10543,13 @@
 8/16/2025 | 12:35:48 PM | WARN | Retrying... (0 attempts left) 
 8/16/2025 | 12:35:52 PM | ERROR | Failed to get nonce after retries: Request failed with status code 502
 8/16/2025 | 12:35:52 PM | ERROR | Failed to retrieve nonce for wallet: 0x1a735396cd45727647FD4bcF548CAE32E30e3A1B 
+8/16/2025 | 4:20:52 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+8/16/2025 | 4:20:52 PM | INFO | Start process for wallet 0x1a735396cd45727647FD4bcF548CAE32E30e3A1B 
+8/16/2025 | 4:20:53 PM | ERROR | Failed to get nonce: Request failed with status code 502
+8/16/2025 | 4:20:53 PM | WARN | Retrying... (2 attempts left) 
+8/16/2025 | 4:20:57 PM | ERROR | Failed to get nonce: Request failed with status code 502
+8/16/2025 | 4:20:57 PM | WARN | Retrying... (1 attempts left) 
+8/16/2025 | 4:21:00 PM | ERROR | Failed to get nonce: Request failed with status code 502
+8/16/2025 | 4:21:01 PM | WARN | Retrying... (0 attempts left) 
+8/16/2025 | 4:21:04 PM | ERROR | Failed to get nonce after retries: Request failed with status code 502
+8/16/2025 | 4:21:04 PM | ERROR | Failed to retrieve nonce for wallet: 0x1a735396cd45727647FD4bcF548CAE32E30e3A1B 
